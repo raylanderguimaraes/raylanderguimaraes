@@ -8,6 +8,7 @@ Desenvolvedor front-end, graduando em Análise e Desenvolvimento de Sistemas, ap
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
