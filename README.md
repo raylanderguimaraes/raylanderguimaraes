@@ -1,7 +1,6 @@
 # Raylander Guimarães
 
-Desenvolvedor front-end, graduando em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e muito curioso em saber como as coisas são feitas no mundo da programação. Estou no momento no processo de transição de carreira, disposto a encarar novos desafios e aprender cada vez mais, poder gerar valor com o meu conhecimento prévio e o que estou desenvolvendo agora na programação.
-
+Desenvolvedor front-end, graduando em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia. 
 ### Hard Skills 
 
 ![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=fff)
