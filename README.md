@@ -1,6 +1,6 @@
 # Raylander Guimarães
 
-Desenvolvedor front-end, graduando em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia. 
+Desenvolvedor Web Fullstack, graduado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia. 
 ### Hard Skills 
 
 ![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=fff)
